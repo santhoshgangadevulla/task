@@ -4,3 +4,8 @@ am
 adding
 some
 lines
+
+and then 
+I 
+am 
+some more lines
